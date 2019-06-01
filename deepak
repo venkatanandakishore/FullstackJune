@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>
+Deepak Nadda
+</title>
+</head>
+<body>
+<h1 style="color:Red;">Personal Info<b>Display</b><h1>
+<b>My Name is Deepak Nadda.</b><br>
+<i>Currently I am pursuing my B.tech Degree</i><br>
+<u>I am an B.tech CSE student</u><br>
+<p>
+This is first time I am making a webpage. I am new to HTML. I am doing FULL STACK from BOARD INFINITY.
+</p>
+<b>The formula for water is</b><br>
+H<sub>2</sub>O<br>
+<b>We can write X2 in the form<b>
+x<sup>2<br>
+<b>The Link to GOOGLE is:</b>
+<a href="https://www.google.com">Google</a>
+<br>
+</body>
+</html>
+
